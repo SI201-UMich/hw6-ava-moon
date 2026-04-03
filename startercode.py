@@ -2,13 +2,17 @@
 # Your name: Ava Moon
 # Your student id: 15169006
 # Your email: avamoon@umich.edu
-# Who or what you worked with on this homework (including generative AI like ChatGPT):
+# Who or what you worked with on this homework (including generative AI like ChatGPT): Claude
 # If you worked with generative AI also add a statement for how you used it.
-# e.g.:
-# Asked ChatGPT for help debugging and understanding the JSON structure
+# I used Claude to help me understand the code structure and logic, particularly for
+# navigating the nested JSON from the Dog API and working through the logic of functions
+# like update_cache and get_longest_lifespan_breed.
 #
 # Did your use of GenAI on this assignment align with your goals and guidelines in your Gen AI contract? If not, why?
-#
+# Yes, it aligned with my guidelines. I consulted Claude when I was having difficulty
+# understanding the logical structure of certain functions, which matches my guideline of
+# using AI to break down logic as a learning tool rather than to simply complete my work.
+# I made sure I understood each part before moving forward.
 # --- ARGUMENTS & EXPECTED RETURN VALUES PROVIDED --- #
 # --- SEE INSTRUCTIONS FOR FULL DETAILS ON METHOD IMPLEMENTATION --- #
 
